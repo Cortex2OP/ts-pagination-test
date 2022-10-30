@@ -1,10 +1,21 @@
-import React from 'react';
-import './App.css';
+import Image from './components/Image/Image';
 
 function App() {
+
+  
   return (
     <div className="App">
-      root
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+      <Image />
+
+
     </div>
   );
 }
